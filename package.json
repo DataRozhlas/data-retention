@@ -22,8 +22,11 @@
     "@babel/preset-env": "^7.4.3",
     "babel-loader": "^8.0.5",
     "clean-css": "^4.2.1",
+    "intersection-observer": "^0.7.0",
     "marked": "^0.6.2",
     "node-yaml": "^3.2.0",
+    "scrollama": "^2.0.0",
+    "scrollmagic": "^2.0.7",
     "webpack": "^4.30.0"
   }
 }
