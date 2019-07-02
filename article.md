@@ -16,7 +16,7 @@ Váš prohlížeč bohužel nepodporuje přehrávání audia.
 Pokud máte datový tarif v mobilním telefonu, vaše zařízení se připojuje k síti prakticky neustále: Stahuje e-maily, kontroluje nejnovější zprávy na Facebooku nebo aktualizuje kalendář. Každé takové připojení se spolu s časem, identifikačním číslem telefonu, telefonním číslem, v databázi je uvedená i informace, ke kterému vysílači byl telefon připojený. De facto tak vzniká nepřetržitý záznam pohybu telefonu a tedy pravděpodobně i jeho majitele. Zaznamenaný pohyb mobilní operátoři uchovávají půl roku nazpět.
 
 <left>
-<p><img width="220" src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Mobilfunk-Basisstation.jpg"></p>
+<p><img width="95%" src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Mobilfunk-Basisstation.jpg"></p>
 <p>Základnová převodní stanice mobilní sítě, <a target="_blank" rel="noopener noreferrer" href="https://commons.wikimedia.org/wiki/File:Mobilfunk-Basisstation.jpg">foto Manfred Sauke</a></p>
 </left>
 
@@ -118,6 +118,11 @@ Před soudem vystupovala řada zástupců silových složek. Za státní zastupi
 Podle ní jde asi o 3 % trestné činnosti, kde hrají nasbírané informace podstatnou roli, jmenovitě zmínila drogové trestné činy, obchodování s lidmi, kyberšikanu i dětskou pornografii. Konkrétní pak byla u příspěvků na sociálních sítích, které schvalovaly útoky na mešity na Novém Zélandu. "Kdybychom ta data neměli, nebyli bychom schopni vůbec říci, kdo takové příspěvky do prostředí internetu pověsil," vysvětlila.
 
 Na dotaz, zda dochází k únikům zaznamenaných informací o občanech, Bradáčová přiznala, že se "zaznamenaly případy ve vztahu k policii," přičemž podle ní šlo o excesy, kterým není možné se vyhnout. "Policisté na objednávku předali data dalším osobám," dodala.
+
+<left>
+<p><b>Ochránci soukromí mezi dvěma kameny</b></p>
+<p>Úřad pro ochranu osobních údajů ve <a target="_blank" rel="noopener noreferrer" href="https://www.uoou.cz/vyjadreni%2Duradu%2Dpro%2Dnbsp%2Dochranu%2Dosobnich%2Dudaju%2Dk%2Dnbsp%2Dnalezu%2Dustavniho%2Dsoudu%2Dve%2Dnbsp%2Dveci%2Ddata%2Dretention/d-34217">svém vyjádření</a> k rozsudku napsal, že jej soudci "staví do určitého napětí", protože je vázán jak jejich rozhodnutím, tak do značné míry <a target="_blank" rel="noopener noreferrer" href="http://curia.europa.eu/juris/document/document.jsf;jsessionid=0B52F4D03DA11D3DC5549BB0173F274C?text=&docid=153045&pageIndex=0&doclang=CS&mode=req&dir=&occ=first&part=1&cid=203648">odlišnými</a> <a target="_blank" rel="noopener noreferrer" href="http://curia.europa.eu/juris/document/document.jsf?text=&docid=188001&pageIndex=0&doclang=CS&mode=req&dir=&occ=first&part=1&cid=203983">rozsudky</a> Soudního dvora EU.</p>
+</left>
 
 O nezbytnosti sledování mluvil i Karel Bačkovský z ministerstva vnitra. Díky němu ministerstvo mimo jiné nepřistoupilo k zákazu anonymních telefonních SIMkaret. "Při použití provozních a lokalizačních dat máme poměrně vysokou úspěšnost odhalování nejenom trestné činnosti páchané s pomocí anonymních karet, ale i takových, které byly pořízeny pro páchání zločinů," uvedl. 
 
