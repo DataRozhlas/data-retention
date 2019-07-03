@@ -1,3 +1,4 @@
+/*
 #player {
     position: fixed;
     bottom: 0;
@@ -6,11 +7,14 @@
     z-index: 1000;
 }
 
-#liceni {
-    width: 100%;
-}
-
 .play{
     text-decoration: underline;
     cursor: pointer;
+}
+*/
+#liceni {
+    width: 100%;
+}
+#player {
+    width: 100%;
 }
