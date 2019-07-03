@@ -1,6 +1,8 @@
 ﻿import byeIE from "./byeie";
+import makeChart from "./crimechart";
 
 byeIE();
+makeChart();
 
 // player
 let stopInt = null;
@@ -31,3 +33,4 @@ for (let i = 0; i < players.length; i++) {
   players[i].addEventListener("click", () => playPart(parseTime(ststo[1]), parseTime(ststo[2])));
 }
 document.getElementById("liceni").addEventListener("pause", () => clearInterval(stopInt));
+
